@@ -33,7 +33,7 @@ It is very benefitial to understand trends in every business by collecting unbia
 * Most activity happens between 5 pm and 7 pm - I suppose, that people go to a gym or for a walk after finishing work. Bellabeat can use this time to remind and motivate users to go for a run or walk.
 * If users want to improve their sleep, Bellabeat should consider using app notifications to go to bed.
 
-## [Conservation Voltage Reduction Estimation and LSTM Modeling](https://github.com/AntonAIG/cvr_data_analytics/blob/main/README.md)
+## 2. [Conservation Voltage Reduction Estimation and LSTM Modeling](https://github.com/AntonAIG/cvr_data_analytics/blob/main/README.md)
 This is a repository of my Master's Thesis project in Renewable Energy Systems at Technische Hochschule Ingolstadt.
 
 CVR is a technique (such as VVO) that involves using a reduced voltage setpoint to reduce load demand from residential and industrial con-sumers in a distribution grid. It determines the load demand reduction during peak, and total energy savings achieved for a specific duration. By carrying out this operation regularly or based on a scheme, the utility can channel the excess power towards critical demand areas or new expansion. A CVR factor is the ratio between a percentage change in power or energy corresponding to a percentage change in voltage. A transformer equipped with a load tap changer can regulate voltage by a switching mechanism that alters voltage levels step-by-step. It is called a voltage regulated distribution transformer (VRDT).
@@ -52,3 +52,13 @@ The objective of the research was to show that:
 1. Voltage reduction (CVR) can produce substantial savings in power and energy.
 2. CVR benefits are affected by annual and daily seasonality.
 3. Accuracy of power estimation can be improved by using bi-directional recurrent neural networks.
+
+## 3. [Photovoltaic Systems Analysis](https://github.com/AntonAIG/photovoltaic_analytics)
+
+The US National Renewable Energy laboratory (NREL), in colaboration with the Department of Energy's Open Energy Data Initiative (OEDI) carried out an investigation of solar systems in the US.
+
+The objective was to perform analysis for evaluating the performance of the solar systems on key metrices such as annual growth of system sizes and customer segmentation.
+
+My role is to carryout this evaluation as outlined above and provide a summarized conclusion and recommendation for further actions. This is provided at the summary and recommendation section of this notebook.
+
+![image](https://github.com/AntonAIG/photovoltaic_analytics/blob/main/NREL_solar_systems/PV%20Dashboard.png)
