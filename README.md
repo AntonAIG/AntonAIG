@@ -64,4 +64,10 @@ My role is to carryout this evaluation as outlined above and provide a summarize
 
 ## 4. [ASHRAE Great Energy Predictor](https://github.com/AntonAIG/energy_efficient_buildings)
 
-In this project, 
+Residential and commercial buildings can be retrofited by insulation, use of energy saving load types, etc. The new energy consumption can be compared to the energy consumption profile assuming there was no retrofit. This can be presented as the benefit of implementing building retrofits, and thus customers can be billed adequately. Also, this can help draw financial support for developers planning to invest in building upgrades.
+
+In this case study, 1000 retrofited buildings have chilled water, electricity, hot water, and steam meters that take measurement of real energy consumption for a 3-year period. Using this data, an estimate of energy consumption can be established for the purpose of billing. However, there is a small problem.
+
+Accurate estimates of energy has been difficult to establish and scale such that various meters, and building types can use the same estimation model to evaluate the benefits of their retrofit. The investors want to know whether their improvements efforts are actually working. They want estimates of energy consumption without retrofits (assuming that the same uses of energy remain the same) using environmental factors that influence consumption such as ambient temperature, pressure, etc.
+
+![image](https://github.com/AntonAIG/energy_efficient_buildings/blob/secondary/ASHRAE_energy_eff/dashboard.JPG)
