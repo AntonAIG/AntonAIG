@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **regression and classification** methods within the general scope of **supervised machine learning** because of **my current projects** in Conservation Voltage Reduction technology that can help us reduce our annual energy use at home. I am specifically working on how to optimize my models' performance, introduce new features, and improve accuracy. I am also working on **data analytics projects** through competitions, and assisting businesses in understanding their **product's performance** and learning **trends** that can help them to improve.
 
-💞️ I’m looking for an junior position in an analytics team of your business so that I can contribute my professional skills to help drive innovation.
+💞️ I’m looking for a junior/entry level position in the analytics team of your business so that I can contribute my professional skills to help drive innovation.
 
 📫 I can be reached on my [LinkedIn](https://www.linkedin.com/in/anthony-igiligi/)
 
