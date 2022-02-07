@@ -62,7 +62,7 @@ My role is to carryout this evaluation as outlined above and provide a summarize
 
 ![image](https://github.com/AntonAIG/photovoltaic_analytics/blob/main/NREL_solar_systems/PV%20Dashboard.png)
 
-## 4. [ASHRAE Great Energy Predictor](https://github.com/AntonAIG/energy_efficient_buildings)
+## 4. [ASHRAE Great Energy Predictor](https://github.com/AntonAIG/energy_efficient_buildings/blob/main/ASHRAE_energy_eff/ashrae_building_eff.ipynb)
 
 Residential and commercial buildings can be retrofited by insulation, use of energy saving load types, etc. The new energy consumption can be compared to the energy consumption profile assuming there was no retrofit. This can be presented as the benefit of implementing building retrofits, and thus customers can be billed adequately. Also, this can help draw financial support for developers planning to invest in building upgrades.
 
