@@ -71,3 +71,13 @@ In this case study, 1000 retrofited buildings have chilled water, electricity, h
 Accurate estimates of energy has been difficult to establish and scale such that various meters, and building types can use the same estimation model to evaluate the benefits of their retrofit. The investors want to know whether their improvements efforts are actually working. They want estimates of energy consumption without retrofits (assuming that the same uses of energy remain the same) using environmental factors that influence consumption such as ambient temperature, pressure, etc.
 
 ![image](https://github.com/AntonAIG/energy_efficient_buildings/blob/secondary/ASHRAE_energy_eff/dashboard.JPG)
+
+## 5. [eCommerce Events History in Cosmetics Shop](https://github.com/AntonAIG/e_commerce_analytics/blob/main/cosmetics_shop/cosmetics_shop_analysis.ipynb)
+
+[REES46](https://rees46.com/) for eCommerce wants to analyze consumer behaviour through the use of datasets obtained for a three-month period, October - December 2019. They provide analytics services to online shops and websites that who want to track customer interaction, events and engagement. One of their USPs is to provide a dynamic dashboard that can record and present key metrics to their customers. These metrics will help them to understand customer interaction and engagement.
+
+REES46 wants to know the best perfroming cosmetic product during the Christmas shoping season of 2019. They want to know what mad e it to be very successfull, and how to drive sales for other products.
+
+The retailers can then use this information to improve the way the product is marketed.
+
+![dashboard](https://github.com/AntonAIG/e_commerce_analytics/blob/main/cosmetics_shop/dashboard_upload.JPG)
