@@ -1,9 +1,11 @@
 # About me
 👋 Hi, I’m Anthony Igiligi
 
-👀 I became interesed in **data analytics** and **machine learning** about 2 years ago through my interest in solving **statistical challenges** that I encountered in my current professional role as a research staff at a renewable energy institute. Having worked with *Excel* - depolying *Macros* with *VBA* for automating all my repeatitive calculations, and having encountered a complex evaluation task during my **masters thesis project**, I discided to learn how to use data analytics tools and processes to solve these challenges.
+👀 I became interesed in **data analytics** and **machine learning** about 2 years ago through my interest in solving **statistical challenges** that I encountered in my past professional roles as a research staff at a renewable energy institute. Having worked with *Excel* - depolying *Macros* with *VBA* for automating all my repeatitive calculations, and having encountered a complex evaluation task during my **masters thesis project**, I discided to learn how to improve my data analysis skills and solve more challenges.
 
 > Currently, I have a **Google Data Analytics Professional Certificate** through the Google data analysis programme that taught me how to provide businessess with answeres through the data analysis process: *ask*, *prepare*, *process*, *analyze*, *share*, and *act*.
+
+> I have also completed machine learning courses and projects: **Applied Machine Learning with Python** - University of Michigan, **Data Science and Machine Learning Web Application with Streamlit**, and some challenging projects.
 
 > I can confidently use: Spreadsheet tools (**Excel**, **Google Sheets**), **SQL**, **Python**, **R**, and **Tableau** to solve business challenges in data analysis, making new discoveries as I move along the analysis process.
 
