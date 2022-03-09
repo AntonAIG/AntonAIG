@@ -5,7 +5,7 @@
 
 > Currently, I have a **Google Data Analytics Professional Certificate** through the Google data analysis programme that taught me how to provide businessess with answeres through the data analysis process: *ask*, *prepare*, *process*, *analyze*, *share*, and *act*.
 
-> I have also completed machine learning courses and projects: **Applied Machine Learning with Python** - University of Michigan, **Data Science and Machine Learning Web Application with Streamlit**, and some challenging projects.
+> I have also completed machine learning courses: **Applied Machine Learning with Python** - University of Michigan, **Data Science and Machine Learning Web Application with Streamlit**, and some challenging projects.
 
 > I can confidently use: Spreadsheet tools (**Excel**, **Google Sheets**), **SQL**, **Python**, **R**, and **Tableau** to solve business challenges in data analysis, making new discoveries as I move along the analysis process.
 
