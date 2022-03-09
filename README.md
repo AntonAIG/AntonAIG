@@ -83,3 +83,15 @@ REES46 wants to know the best perfroming cosmetic product during the Christmas s
 The retailers can then use this information to improve the way the product is marketed.
 
 ![dashboard](https://github.com/AntonAIG/e_commerce_analytics/blob/main/cosmetics_shop/dashboard_upload.JPG)
+
+## 6. [Hourly Power Consumption Profile of PJM](https://github.com/AntonAIG/gridwide_analytics/blob/main/PJME_load_profile.ipynb)
+
+The JPM Interconnection LLC (JPM) is a TSO based in USA, and operating as part of the Eastern Interconnection grid. Their network coverage includes Delaware, Illinois, Indiana, Kentucky, Maryland, Michigan, New Jersey, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, West Virginia, and the District of Columbia. The data that was provided were historical data of power consumption for the Eastern Region herein refered to as JPME, from 2002 to 2018. The JPME dataset provides the means of evaluating the consumption partterns and seasonality trends in this region.
+
+We want to:
+
+Find trends in energy consumption around hours of the day, holidays, or long term trends.
+
+Understand how daily trends change depending of the time of year. Summer trends are very different than winter trends.
+
+![image](https://github.com/AntonAIG/gridwide_analytics/blob/main/pjme_hourly/daily_power_consumption.PNG?raw=true)
