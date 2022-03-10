@@ -95,3 +95,11 @@ Find trends in energy consumption around hours of the day, holidays, or long ter
 Understand how daily trends change depending of the time of year. Summer trends are very different than winter trends.
 
 ![image](https://github.com/AntonAIG/gridwide_analytics/blob/main/pjme_hourly/daily_power_consumption.PNG?raw=true)
+
+## 7. [Load Archetypes for Customers Segmentation](https://github.com/AntonAIG/applied_ml_learning/blob/main/clustering/ashrae_load_archetypes.ipynb)
+
+This project is based on the ASHRAE Great Energy Predictor III project available in Kaggle. Using the AMI measurements of just electricity, we can begin to perform a series of analysis to determine the consumer behavior and unique parterns.
+
+A utility company that collects measurement data from its customers would like to know specific consumption behaviors and parterns that characterise all the customers. Some customers might have double peaks, some might have single peaks, while others have steadily rising profiles from morning till midnight. This knowledge can be used to further plan and recommend energy savings measures, peak reduction or cost reduction incentives.
+
+![image](https://github.com/AntonAIG/applied_ml_learning/blob/main/clustering/load%20archetypes_new.PNG)
