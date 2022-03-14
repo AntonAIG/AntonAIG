@@ -47,8 +47,6 @@ The repository is divided into three parts:
 
 Each part deals with the various stages of data analytics and datascience.
 
-![image](https://github.com/AntonAIG/cvr_data_analytics/blob/main/energy_savings/CVRf_summary.png)
-
 The objective of the research was to show that:
 1. Voltage reduction (CVR) can produce substantial savings in power and energy.
 2. CVR benefits are affected by annual and daily seasonality.
