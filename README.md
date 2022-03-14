@@ -41,16 +41,18 @@ This is a repository of my Master's Thesis project in Renewable Energy Systems a
 CVR is a technique (such as VVO) that involves using a reduced voltage setpoint to reduce load demand from residential and industrial con-sumers in a distribution grid. It determines the load demand reduction during peak, and total energy savings achieved for a specific duration. By carrying out this operation regularly or based on a scheme, the utility can channel the excess power towards critical demand areas or new expansion. A CVR factor is the ratio between a percentage change in power or energy corresponding to a percentage change in voltage. A transformer equipped with a load tap changer can regulate voltage by a switching mechanism that alters voltage levels step-by-step. It is called a voltage regulated distribution transformer (VRDT).
 
 The repository is divided into three parts:
-* CVR factor evaluation for peak power demand reduction
+* [CVR factor evaluation for peak power demand reduction](https://github.com/AntonAIG/cvr_data_analytics/blob/main/reports/cvrf_analysis.ipynb)
 * Estimation and visualization of CVR factors for energy savings
-* LSTM Load Demand Forecasting
+* [XGBoost load demand prediction](https://github.com/AntonAIG/cvr_data_analytics/blob/main/energy_savings/load_demand_XGB.ipynb)
+
+![image](https://github.com/AntonAIG/cvr_data_analytics/blob/main/energy_savings/CVRf_summary_new.png)
 
 Each part deals with the various stages of data analytics and datascience.
 
 The objective of the research was to show that:
 1. Voltage reduction (CVR) can produce substantial savings in power and energy.
 2. CVR benefits are affected by annual and daily seasonality.
-3. Accuracy of power estimation can be improved by using bi-directional recurrent neural networks.
+3. Accuracy of power estimation can be improved by using ensemble algorithms, specificly XGBoost Regressors.
 
 ## 3. [Photovoltaic Systems Analysis](https://github.com/AntonAIG/photovoltaic_analytics)
 
