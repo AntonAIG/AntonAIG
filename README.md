@@ -43,7 +43,7 @@ CVR is a technique (such as VVO) that involves using a reduced voltage setpoint 
 The repository is divided into three parts:
 * [CVR factor evaluation for peak power demand reduction](https://github.com/AntonAIG/cvr_data_analytics/blob/main/reports/cvrf_analysis.ipynb)
 * Estimation and visualization of CVR factors for energy savings
-* [XGBoost load demand prediction](https://github.com/AntonAIG/cvr_data_analytics/blob/main/energy_savings/load_demand_XGB.ipynb)
+* [XGBoost load demand prediction](https://github.com/AntonAIG/cvr_data_analytics/blob/main/energy_savings/load_demand_XGB_.ipynb)
 
 ![image](https://github.com/AntonAIG/cvr_data_analytics/blob/main/energy_savings/CVRf_summary_new.png)
 
