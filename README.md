@@ -103,3 +103,10 @@ This project is based on the ASHRAE Great Energy Predictor III project available
 A utility company that collects measurement data from its customers would like to know specific consumption behaviors and parterns that characterise all the customers. Some customers might have double peaks, some might have single peaks, while others have steadily rising profiles from morning till midnight. This knowledge can be used to further plan and recommend energy savings measures, peak reduction or cost reduction incentives.
 
 ![image](https://github.com/AntonAIG/applied_ml_learning/blob/main/clustering/load%20archetypes_new.PNG)
+
+## 8. [YouTube Channel Performance Visualization with Streamlit](https://github.com/AntonAIG/streamlit_webapp/blob/main/yt_dashboard.py)
+This streamlit app will be used to present an interactive dashboard for data visualization using a YouTube channel's performance dataset available in Kaggle.
+The interface consists of KPI metrics engineered from the data, and plot of performance over time.
+Data source: Ken Jee YouTube Data
+
+![image](https://github.com/AntonAIG/streamlit_webapp/blob/main/youtube%20web%20app.PNG)
